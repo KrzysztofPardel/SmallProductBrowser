@@ -2,7 +2,8 @@
 
 #### This is a small and quick project of a browser that allows a customer to go through the drings and beverages available at a local store.
 
-🔎 The website has been deployed and can be visited at: https://krzysztofpardel.github.io/Browser/
+🔎 The website has been deployed and can be visited here:
+*[small-product-browser.vercel.app](small-product-browser.vercel.app)*.
 
 ---
 
